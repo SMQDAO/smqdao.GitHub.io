@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://smqdao.GitHub.io</id>
     <title>smqdao.GitHub.io</title>
-    <updated>2022-03-05T14:39:37.209Z</updated>
+    <updated>2022-03-05T14:43:15.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://smqdao.GitHub.io"/>
     <link rel="self" href="https://smqdao.GitHub.io/atom.xml"/>
@@ -11,13 +11,12 @@
     <icon>https://smqdao.GitHub.io/favicon.ico</icon>
     <rights>All rights reserved 2022, smqdao.GitHub.io</rights>
     <entry>
-        <title type="html"><![CDATA[smqDAO]]></title>
+        <title type="html"><![CDATA[      <smqDAO什么群纪念代币部署完成，基于以太坊智能合约>]]></title>
         <id>https://smqdao.GitHub.io/post/smqdao/</id>
         <link href="https://smqdao.GitHub.io/post/smqdao/">
         </link>
         <updated>2022-03-05T14:32:22.000Z</updated>
-        <content type="html"><![CDATA[<p>什么群纪念代币部署完成，基于以太坊智能合约。<br>
-没有实际价值，只有纪念意义。</p>
+        <content type="html"><![CDATA[<pre><code>&lt;什么群纪念代币部署完成，基于以太坊智能合约，没有实际价值，只有纪念意义&gt;</code></pre>
 ]]></content>
     </entry>
     <entry>
