@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://smqdao.GitHub.io</id>
     <title>smqdao.GitHub.io</title>
-    <updated>2022-03-05T12:09:07.727Z</updated>
+    <updated>2022-03-05T12:29:09.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://smqdao.GitHub.io"/>
     <link rel="self" href="https://smqdao.GitHub.io/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://smqdao.GitHub.io/images/avatar.png</logo>
     <icon>https://smqdao.GitHub.io/favicon.ico</icon>
     <rights>All rights reserved 2022, smqdao.GitHub.io</rights>
+    <entry>
+        <title type="html"><![CDATA[UBA挖矿教程]]></title>
+        <id>https://smqdao.GitHub.io/post/uba-wa-kuang-jiao-cheng/</id>
+        <link href="https://smqdao.GitHub.io/post/uba-wa-kuang-jiao-cheng/">
+        </link>
+        <updated>2022-03-05T12:13:34.000Z</updated>
+        <summary type="html"><![CDATA[<p>[点击地址]（https://uba.finance?id=422133注册)</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>[点击地址]（https://uba.finance?id=422133注册)</p>
+<!-- more -->
+<figure data-type="image" tabindex="1"><img src="https://smqdao.GitHub.io/post-images/1646483175566.jpg" alt="" loading="lazy"></figure>
+<!-- more -->
+<figure data-type="image" tabindex="2"><img src="https://smqdao.GitHub.io/post-images/1646483196106.jpg" alt="" loading="lazy"></figure>
+<p>这样就可以了 ，每天点个收获</p>
+<p>[官网]（https://uba.finance）</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TERK空投领取流程]]></title>
         <id>https://smqdao.GitHub.io/post/terk-kong-tou-ling-qu-liu-cheng/</id>
