@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://smqdao.github.io</id>
-    <title>Gridea</title>
-    <updated>2022-05-06T14:48:05.589Z</updated>
+    <title>smq</title>
+    <updated>2022-05-06T14:50:27.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://smqdao.github.io"/>
     <link rel="self" href="https://smqdao.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://smqdao.github.io/images/avatar.png</logo>
     <icon>https://smqdao.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, Gridea</rights>
+    <rights>All rights reserved 2022, smq</rights>
     <entry>
         <title type="html"><![CDATA[一篮子币圈工具]]></title>
         <id>https://smqdao.github.io/post/yi-lan-zi-bi-quan-gong-ju/</id>
